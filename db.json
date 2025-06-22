@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "31",
+      "checked": true,
+      "item": "Practice Coding"
+    },
+    {
+      "id": "311",
+      "checked": false,
+      "item": "Gaming"
+    },
+    {
+      "id": "3111",
+      "checked": false,
+      "item": "Sleep Well"
+    },
+    {
+      "id": "311111",
+      "checked": false,
+      "item": "Exporing some DSA"
+    }
+  ]
+}
